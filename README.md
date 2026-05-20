@@ -21,7 +21,7 @@ Fresh graduate SMK yang banting setir dari Teknik Otomotif ke Web Development. B
 
 | Project | Deskripsi | Tech | Live |
 |---|---|---|---|
-| 🔧 Car Service Cakarabangkit | Web profile bengkel profesional | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/web-bengkel/) |
+| 🔧 Car Service Cakarabangkit | Web profile bengkel profesional | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/cakarabangkit-car-service/) |
 | 💰 Personal Finance App | Pencatat keuangan harian dengan filter kategori | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/personal-finance-app/) |
 | ✅ To Do List App | Manajemen tugas dengan LocalStorage | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/todo-list-interaktif/) |
 | 👤 Portfolio Website | Portfolio personal dengan sidebar navigation | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/Porto-Saya/) |
