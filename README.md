@@ -39,7 +39,7 @@ Fresh graduate SMK yang banting setir dari Teknik Otomotif ke Web Development. B
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugata-halimawan-82a612400/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yugat.dv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yugata.dv@gmail.com)
 
 ---
 
