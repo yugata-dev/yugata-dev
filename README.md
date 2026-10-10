@@ -1,5 +1,13 @@
 # Hi, I'm Yugata 👋
-**Back-End / Full-Stack Web Developer** — Blitar, Jawa Timur, Indonesia
+<p align="center">
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yugata%20Halimawan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20%2F%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3D5AFE&center=true&vCenter=true&width=620&lines=Back-End+%2F+Full-Stack+Web+Developer;Node.js+%C2%B7+PostgreSQL+%C2%B7+Next.js;Membangun+produk+nyata%2C+bukan+cuma+tutorial;Dari+mesin+otomotif+ke+mesin+browser" />
+</p>
+
+<p align="center">📍 Blitar, Jawa Timur, Indonesia</p>
 
 Fresh graduate SMK yang banting setir dari Teknik Otomotif ke Web Development.
 Belajar otodidak sejak Januari 2026, fokus membangun produk nyata yang bisa
@@ -43,6 +51,14 @@ dipakai sungguhan. Saya paling nyaman di sisi backend dan database.
 </p>
 
 ---
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yugata-dev/yugata-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yugata-dev/yugata-dev/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/yugata-dev/yugata-dev/output/github-snake.svg" />
+</picture>
+</p>
 
 ## 🚀 Projects
 
