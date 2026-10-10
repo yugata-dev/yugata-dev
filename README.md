@@ -89,3 +89,7 @@ dipakai sungguhan. Saya paling nyaman di sisi backend dan database.
 ---
 
 *"Dari mesin otomotif ke mesin browser — masih belajar, tapi tidak berhenti."*
+
+<p align="center">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+</p>
