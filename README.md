@@ -67,7 +67,6 @@ dipakai sungguhan. Saya paling nyaman di sisi backend dan database.
 | 📊 Qurio | Platform kuis dan pembelajaran interaktif untuk kelas, dengan fitur real-time dan analitik untuk guru. Dikerjakan berdua, bagian saya backend, database, analitik, dan deployment | Next.js, TypeScript, Node.js, Express, PostgreSQL, Socket.IO | [Demo](https://qurioapp.vercel.app) · [Kode](https://github.com/yugata-dev/Qurio_App) |
 | ☕ Monkey Coffee | Landing page responsif, dikerjakan dalam 3 hari | Next.js, TypeScript | [Demo](https://monkey-coffee.vercel.app) |
 | 🔧 Bengkelin | Sistem booking & tracking servis kendaraan dengan realtime, admin panel, notif WhatsApp | React, Supabase, Tailwind | [Demo](https://yugata-dev.github.io/bengkelin) |
-| 🚗 Car Service Cakarabangkit | Web profile bengkel profesional | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/cakarabangkit-car-service/) |
 | 💰 Personal Finance App | Pencatat keuangan harian dengan filter kategori | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/personal-finance-app/) |
 | ✅ To Do List App | Manajemen tugas dengan LocalStorage | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/todo-list-interaktif/) |
 | 👤 Portfolio Website | Portfolio personal dengan sidebar navigation | HTML, CSS, JS | [Demo](https://yugata-dev.github.io/Porto-Saya/) |
